@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ejercicios
+namespace Tercer_Ejercicio
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Ejercicios
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new fmrEjercicio1());
+            Application.Run(new fmrEjecicio3());
         }
     }
 }
