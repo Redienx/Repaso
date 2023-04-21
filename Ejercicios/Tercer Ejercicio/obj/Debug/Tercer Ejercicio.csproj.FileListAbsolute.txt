@@ -1,0 +1,11 @@
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\Tercer Ejercicio\bin\Debug\Tercer Ejercicio.exe.config
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\Tercer Ejercicio\bin\Debug\Tercer Ejercicio.exe
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\Tercer Ejercicio\bin\Debug\Tercer Ejercicio.pdb
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\Tercer Ejercicio\obj\Debug\Tercer Ejercicio.csproj.AssemblyReference.cache
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\Tercer Ejercicio\obj\Debug\Tercer Ejercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\Tercer Ejercicio\obj\Debug\Tercer_Ejercicio.Properties.Resources.resources
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\Tercer Ejercicio\obj\Debug\Tercer_Ejercicio.fmrEjecicio3.resources
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\Tercer Ejercicio\obj\Debug\Tercer Ejercicio.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\Tercer Ejercicio\obj\Debug\Tercer Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\Tercer Ejercicio\obj\Debug\Tercer Ejercicio.exe
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\Tercer Ejercicio\obj\Debug\Tercer Ejercicio.pdb
