@@ -24,13 +24,13 @@ namespace xCuarto_Ejercicio
         }
 
         private void tmr1_Tick(object sender, EventArgs e)
-        {
-            nX++;
-            lblContador.Text = nX.ToString();
+            {
+                nX++;
+                lblContador.Text = nX.ToString();
             if (nX == 100)
             {
                 tmr1.Stop();
-            }
+        }
         }
     }
 }
