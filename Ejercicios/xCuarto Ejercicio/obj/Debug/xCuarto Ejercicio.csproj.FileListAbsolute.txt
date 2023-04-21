@@ -1,0 +1,11 @@
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\xCuarto Ejercicio\bin\Debug\xCuarto Ejercicio.exe.config
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\xCuarto Ejercicio\bin\Debug\xCuarto Ejercicio.exe
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\xCuarto Ejercicio\bin\Debug\xCuarto Ejercicio.pdb
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\xCuarto Ejercicio\obj\Debug\xCuarto Ejercicio.csproj.AssemblyReference.cache
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\xCuarto Ejercicio\obj\Debug\xCuarto Ejercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\xCuarto Ejercicio\obj\Debug\xCuarto_Ejercicio.fmrCuartoEjercicio.resources
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\xCuarto Ejercicio\obj\Debug\xCuarto_Ejercicio.Properties.Resources.resources
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\xCuarto Ejercicio\obj\Debug\xCuarto Ejercicio.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\xCuarto Ejercicio\obj\Debug\xCuarto Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\xCuarto Ejercicio\obj\Debug\xCuarto Ejercicio.exe
+C:\Users\Julian\source\repos\Repaso\Repaso\Ejercicios\xCuarto Ejercicio\obj\Debug\xCuarto Ejercicio.pdb
